@@ -1,0 +1,17 @@
+# Directorio target
+/target/
+
+# Archivos de configuración locales de IntelliJ IDEA
+.idea/
+
+# Archivos de configuración locales de Visual Studio Code
+.vscode/
+
+# Archivos de construcción específicos
+.classpath
+.project
+
+# Archivos de registro y temporales
+*.log
+*.tmp
+
